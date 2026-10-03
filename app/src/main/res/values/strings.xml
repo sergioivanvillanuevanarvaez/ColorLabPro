@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">image asset</string>
+    <string name="selected_color">color seleccionado</string>
+    <string name="save_favorite">guardar en favoritos</string>
+    <string name="apply_theme">aplicar tema</string>
+    <string name="favorites">favoritos</string>
+</resources>
